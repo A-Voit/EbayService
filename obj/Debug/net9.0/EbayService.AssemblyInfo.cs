@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EbayService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db8b490357a681286c01b30f3be4082905ff55c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EbayService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EbayService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
