@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CxS/SJodolI=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\alexv\\Documents\\Code\\EbayService\\EbayService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexv\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\alexv\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\alexv\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@EbayService_HostAddress = http://localhost:5102
+
+GET {{EbayService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
